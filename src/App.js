@@ -1,6 +1,6 @@
 import './App.css'
-import NavBar from '/Bookster-app/components/NavBar'
-import data from './data/data.json'
+import NavBar from '/Bookster-app/NavBar'
+import data from '/data/data.json'
 import Book from './components/Book'
 import Banner from './components/Banner'
 import Quote from './components/Quote'
