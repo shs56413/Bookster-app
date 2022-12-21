@@ -1,5 +1,5 @@
 import './App.css'
-import NavBar from './components/NavBar'
+import NavBar from '/Bookster-app/components/NavBar'
 import data from './data/data.json'
 import Book from './components/Book'
 import Banner from './components/Banner'
